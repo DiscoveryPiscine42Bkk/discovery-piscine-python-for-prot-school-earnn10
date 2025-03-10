@@ -1,2 +1,0 @@
-A="Earn"
-print(A)
