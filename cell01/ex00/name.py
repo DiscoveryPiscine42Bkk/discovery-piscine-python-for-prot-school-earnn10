@@ -1,0 +1,2 @@
+A="Earn"
+print(A)
